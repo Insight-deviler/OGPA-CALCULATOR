@@ -18,5 +18,5 @@ SHA1 KEY: e2a8117744202ae16d34fb23bc6fcdda11358d03
 
 
 # Credits
-App icon by Flaticon
+App icon by (Flaticon)[https://www.flaticon.com/]
 
